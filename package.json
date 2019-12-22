@@ -1,0 +1,17 @@
+{
+  "name": "roconews_vue_express",
+  "version": "1.0.0",
+  "description": "Full stack blog application for news aggregation and blogging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bradford Basinger",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
